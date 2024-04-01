@@ -11,8 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "fastify": "^4.26.2",
-    "fastify-swagger": "^5.2.0",
+    "fastify": "^3.18.0",
+    "fastify-swagger": "^4.7.0",
     "uuid": "^9.0.1"
   },
   "devDependencies": {
